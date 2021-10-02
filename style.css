@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.btns {
+    padding: 20px;
+    margin: 10px;
+    display: flex;
+}
+
+.container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 250px;
+}
+.start-btn {
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 210px;
+}
+.hide {
+    display: none;
+}
+.title {
+    text-align: center;
+}
+.para {
+    text-align: center;
+    margin-top: 20px;
+}
+.navbar {
+    margin: 40px;
+}
